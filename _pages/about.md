@@ -9,6 +9,7 @@ profile:
   image: photo_IanChoi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Yonsei University</p>
     <p>Daewoo Hall 523</p>
     <p>50, Yonsei-ro, Seodaemun-gu</p>
     <p> Seoul, Republic of Korea</p>
@@ -33,4 +34,4 @@ My research interests lie in understanding how diverse actions and policy change
 
 I am currently preparing to apply to Ph.D. programs in Economics for Fall 2026.
 
-You can find more about my research [here](/iantheodorechoi/publications/).
+You can find more about my research [here](/publications/).

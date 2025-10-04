@@ -33,4 +33,4 @@ My research interests lie in understanding how diverse actions and policy change
 
 I am currently preparing to apply to Ph.D. programs in Economics for Fall 2026.
 
-You can find more about my research [here](/iantheodore/publications/). 
+

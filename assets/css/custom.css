@@ -1,0 +1,23 @@
+/* Target all bibliography entries */
+.bibliography {
+  font-size: 0.95rem;     /* adjust size (default ~1rem) */
+  color: #333333;         /* main text color */
+}
+
+/* Make titles stand out */
+.bibliography .title {
+  font-weight: 600;
+  color: #0050a0;         /* custom blue for titles */
+  display: block;         /* line break before title */
+  margin-bottom: 4px;
+}
+
+/* Optional: tweak authors */
+.bibliography .author {
+  color: #666666;
+}
+
+/* Optional: year color */
+.bibliography .year {
+  color: #999999;
+}

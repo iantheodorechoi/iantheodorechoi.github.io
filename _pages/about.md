@@ -34,4 +34,4 @@ My research interests lie in understanding how diverse actions and policy change
 
 I am currently preparing to apply to Ph.D. programs in Economics for Fall 2026.
 
-You can find my research projects [here](/publications/) and my CV [here](/assets/pdf/CV_(October_2025).pdf).
+You can find my research projects [here](/research/) and my CV [here](/assets/pdf/CV_(October_2025).pdf).

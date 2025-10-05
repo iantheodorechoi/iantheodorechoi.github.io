@@ -14,7 +14,7 @@ nav_order: 2
 - *Economic Impacts of the Green Transition: Evidence from Korean Gas Stations*   ([PDF](/assets/pdf/EVC_Updated_Draft(Aug_2025).pdf))   ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400307))      
 (with [Soojin Jo](https://sites.google.com/site/soojinjo/), Jaehyeok Lee, and [Myungkyu Shim](https://myungkyushim.weebly.com/))    
 
->> **Summary:** The nationwide mandate requiring EV charger installations in South Korean apartment complexes boosted electric vehicle (EV) demand, which in turn affected the fuel retail market: gas stations responded by lowering gasoline and diesel prices. This generated positive spillover effects for internal combustion engine vehicle owners through reduced fuel costs.   
+   **Summary:** The nationwide mandate requiring EV charger installations in South Korean apartment complexes boosted electric vehicle (EV) demand, which in turn affected the fuel retail market: gas stations responded by lowering gasoline and diesel prices. This generated positive spillover effects for internal combustion engine vehicle owners through reduced fuel costs.   
 
 
 - *Aging Out of Monopsony: Evidence from Korea’s Retirement Age Reform*   ([PDF](/assets/pdf/Aging&MD_Updated_Draft(June_2025).pdf))  

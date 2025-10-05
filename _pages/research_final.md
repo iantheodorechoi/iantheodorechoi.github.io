@@ -25,6 +25,7 @@ nav_order: 2
       <summary>Summary</summary>    
       Korea enacted a major legislative reform that raised the minimum retirement age to 60. The resulting workforce aging weakened firms’ monopsony power, suggesting that a policy aimed at sustaining labor supply had significant spillover effects on wage-setting behavior and labor market competition. This outcome appears driven by firms’ reduced ability to dismiss older workers and rising labor costs under Korea’ s seniority-based wage system.     
     </details>     
+&nbsp;   
 
 - ***The Weakening of Aging–Conservatism: Folk Wisdom Meets Korean Politics***   
 (with [Jongkwan Lee](https://sites.google.com/site/kwanlee84/), and [Hee-Seung Yang](https://sites.google.com/site/heeseungyang/home))   
@@ -32,7 +33,7 @@ nav_order: 2
       <summary>Summary</summary>     
       In Korea, individuals born in the 1960s were unexpectedly exposed to military dictatorship in their youth, which shaped more liberal political views. This historical experience complicates the conventional belief that aging leads to conservatism. Empirical evidence shows that this link has weakened in recent years, as many from this cohort retain their original liberal views into older age.     
     </details>      
-
+&nbsp;   
 
 
 ### Work in Progress
@@ -43,4 +44,4 @@ nav_order: 2
       <summary>Summary</summary>   
       Korea’ s Emissions Trading Scheme (ETS) was implemented with lenient caps and generous free permit allocations. As a result, ETS-regulated firms, compared to unregulated firms, experienced significant increases in profits and market power, potentially due to windfall gains from selling surplus permits and reductions in marginal costs.   
     </details>        
-
+&nbsp;   

@@ -14,7 +14,7 @@ profile:
     <p>50, Yonsei-ro, Seodaemun-gu</p>
     <p> Seoul, Republic of Korea</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:

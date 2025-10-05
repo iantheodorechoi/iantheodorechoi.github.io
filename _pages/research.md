@@ -9,16 +9,14 @@ nav_order: 2
 
 <!-- _pages/research.md -->
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
 <div class="research">
 
-## Working Papers ##
+Working Papers
+
 {% bibliography --file workingpapers %}
 
-## Work in Progress ##
+Work in Progress
+
 {% bibliography --file workinprogress %}
 
 </div>

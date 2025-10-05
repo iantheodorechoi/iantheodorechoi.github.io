@@ -17,6 +17,7 @@ nav_order: 2
       <summary>Summary</summary>      
       The nationwide mandate requiring EV charger installations in Korean apartment complexes boosted electric vehicle (EV) demand, which in turn affected the fuel retail market: gas stations responded by lowering gasoline and diesel prices. This generated positive spillover effects for internal combustion engine vehicle owners through reduced fuel costs.     
     </details>       
+&nbsp;   
 
 - ***Aging Out of Monopsony: Evidence from Korea’s Retirement Age Reform***   ([PDF](/assets/pdf/Aging&MD_Updated_Draft(June_2025).pdf))  
 (Sole Author)   

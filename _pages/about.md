@@ -30,7 +30,7 @@ latest_posts:
 
 **Hello!?** I am a master’s student in Economics at Yonsei University.
 
-My research interests lie in understanding how diverse actions and policy changes generate complex and often unexpected spillover effects across environmental and labor markets. I am also deeply interested in the formation and evolution of individuals’ political preferences.
+My research interests lie in understanding how diverse actions and policy changes generate complex and unexpected spillover effects across environmental and labor markets. I am also deeply interested in the formation and evolution of individuals’ political preferences.
 
 I am currently preparing to apply to Ph.D. programs in Economics for Fall 2026.
 

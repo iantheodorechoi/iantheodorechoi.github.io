@@ -30,10 +30,10 @@ latest_posts:
 
 
 **Hello!?** My name is Ian (Theodore) Choi.   
-I am a master’s student in Economics at **<font color="blue">Yonsei University</font>**.    
+I am a master’s student in Economics at **Yonsei University**.    
 
 I received my B.A. in Economics and Applied Statistics from Yonsei University in 2023.  
-I am currently preparing to apply to Ph.D. programs in Economics for Fall 2026. <br>   
+I am currently preparing to apply to Ph.D. programs in Economics for Fall 2026.   
 
 
 My research interests lie in understanding how actions and policy changes generate complex and unexpected spillover effects across environmental and labor markets.   

@@ -10,6 +10,7 @@ nav_order: 2
 
 
 ### Working Papers
+&nbsp; 
 
 - ***Economic Impacts of the Green Transition: Evidence from Korean Gas Stations***   ([PDF](/assets/pdf/EVC_Updated_Draft(Aug_2025).pdf))   ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400307))      
 (with [Soojin Jo](https://sites.google.com/site/soojinjo/), Jaehyeok Lee, and [Myungkyu Shim](https://myungkyushim.weebly.com/))     
@@ -37,6 +38,7 @@ nav_order: 2
 
 
 ### Work in Progress
+&nbsp;  
 
 - ***Cap-and-Profit? Market Consequences of Korea’ s Emissions Trading Scheme***   
 (Sole Author) 

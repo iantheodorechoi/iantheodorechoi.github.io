@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 description: Below is a list of my ongoing research projects.
 nav: true
 nav_order: 2
@@ -15,6 +15,10 @@ nav_order: 2
 
 <div class="research">
 
-{% bibliography %}
+## Working Papers
+{% bibliography --file workingpapers %}
+
+## Work in Progress
+{% bibliography --file workinprogress %}
 
 </div>

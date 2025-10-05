@@ -28,15 +28,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+
 **Hello!?** My name is Ian (Theodore) Choi.   
 I am a master’s student in Economics at **<font color="blue">Yonsei University</font>**.  
 
 I received my B.A. in Economics and Applied Statistics from Yonsei University in 2023.  
 I am currently preparing to apply to Ph.D. programs in Economics for Fall 2026.
 
-My research interests lie in understanding how actions and policy changes generate complex and unexpected spillover effects across environmental and labor markets. I am also interested in the formation and evolution of individuals’ political preferences.
+
+My research interests lie in understanding how actions and policy changes generate complex and unexpected spillover effects across environmental and labor markets.   
+I am also interested in the formation and evolution of individuals’ political preferences.
 
 But more generally, my research interests encompass   
 **environmental economics, labor economics, and empirical industrial organization**.
+
 
 You can find my research projects [here](/research/) and my CV [here](/assets/pdf/CV_(October_2025).pdf).

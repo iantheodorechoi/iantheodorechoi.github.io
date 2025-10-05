@@ -11,14 +11,15 @@ nav_order: 2
 
 <div class="research">
 
----
-# Working Papers
----
+Working Papers
+
+
 {% bibliography --file workingpapers %}
 
----
-# Work in Progress
----
+
+Work in Progress
+
+
 {% bibliography --file workinprogress %}
 
 </div>

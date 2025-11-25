@@ -29,7 +29,7 @@ nav_order: 2
 &nbsp;   
 
 - ***The Weakening of Aging–Conservatism: Folk Wisdom Meets Korean Politics***   
-(with [Jongkwan Lee](https://sites.google.com/site/kwanlee84/), and [Hee-Seung Yang](https://sites.google.com/site/heeseungyang/home))   
+(with [Jongkwan Lee](https://sites.google.com/site/kwanlee84/), and [Hee-Seung Yang](https://sites.google.com/site/heeseungyang/home))   test trial
    <details>       
       <summary>Summary</summary>     
       In Korea, individuals born in the 1960s were unexpectedly exposed to military dictatorship in their youth, which shaped more liberal political views. This historical experience complicates the conventional belief that aging leads to conservatism. Empirical evidence shows that this link has weakened in recent years, as many from this cohort retain their original liberal views into older age.     

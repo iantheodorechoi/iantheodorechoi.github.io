@@ -28,7 +28,7 @@ nav_order: 2
     </details>     
 &nbsp;   
 
-- ***The Weakening of Aging–Conservatism: Folk Wisdom Meets Korean Politics***   ([PDF](/assets/pdf/Aging&Election_Draft(Nov_2025).pdf))  
+- ***The Weakening of Aging–Conservatism: Folk Wisdom Meets Korean Politics***   
 (with [Jongkwan Lee](https://sites.google.com/site/kwanlee84/), and [Hee-Seung Yang](https://sites.google.com/site/heeseungyang/home))   
    <details>       
       <summary>Summary</summary>     

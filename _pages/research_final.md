@@ -20,7 +20,7 @@ nav_order: 2
     </details>       
 &nbsp;   
 
-- ***Aging Out of Monopsony: Evidence from Korea’s Retirement Age Reform***   ([PDF](/assets/pdf/Aging&MD_Updated_Draft(June_2025).pdf))  
+- ***Aging Out of Monopsony: Evidence from Korea’s Retirement Age Reform***   ([PDF](/assets/pdf/Aging&MD_Updated_Draft(Nov_2025).pdf))    
 (Sole Author)   
     <details>     
       <summary>Summary</summary>    

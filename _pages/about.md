@@ -45,7 +45,7 @@ But more generally, my research interests encompass
 **environmental economics, labor economics, and empirical industrial organization**.   
 &nbsp; 
 
-You can find my research projects [here](/research/) and my CV [here](/assets/pdf/CV_(October_2025).pdf). 
+You can find my research projects [here](/research/) and my CV [here](/assets/pdf/CV_IanChoi_(November_2025).pdf). 
  
 
 Please feel free to contact me via email at ianchoi@yonsei.ac.kr
